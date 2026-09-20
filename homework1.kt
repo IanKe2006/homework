@@ -1,4 +1,4 @@
 fun main() {
-    print("歡迎使用Java!")
-    print("開始使用Java吧!")
+    println("歡迎使用Java!")
+    println("開始使用Java吧!")
 }
