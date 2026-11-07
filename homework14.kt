@@ -77,4 +77,8 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e87f1298a56e9e89c4cf789e591f49902cf25e6d
